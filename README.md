@@ -7,9 +7,5 @@ All the information are showen in Persian using B yekan font.
 
 To add more currency or data from TGJU, simply add URL of your selected criterions page to get_price function.
 
-Required Libraries:
-arabic_reshaper
-bidi.algorithm
-PIL
-requests 
-BeautifulSoup 
+Required Libraries: 
+arabic_reshaper, bidi.algorithm, PIL, requests, BeautifulSoup 
