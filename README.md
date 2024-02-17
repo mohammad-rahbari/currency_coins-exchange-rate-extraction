@@ -1,6 +1,6 @@
 # currency_coins-exchange-rate-extraction
 
-The python program uses BeautifulSoup for Web Scraping and extracts price of currency and Iranian gold coins based on Iranian Rials and results export in a JPG image fomat
+The python program uses BeautifulSoup for Web Scraping and extracts price of currency and Iranian gold coins based on Iranian Rials and results will be exported in a JPG image format.
 
 https://www.tgju.org/ have been used as the sourse of information.
 All the information are showen in Persian using B yekan font.
