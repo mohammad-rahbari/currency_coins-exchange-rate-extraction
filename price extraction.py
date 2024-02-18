@@ -78,8 +78,8 @@ putText(image,data['coin_ememi'],(695, 1060),45)
 putText(image,data['coin_ba'],(235, 1060),45)
 
 
-putText(image,data['coin_ememi'],(695, 1245),45)
-putText(image,data['coin_ba'],(235, 1245),45)
+putText(image,data['coin_half'],(695, 1245),45)
+putText(image,data['coin_quarter'],(235, 1245),45)
 
 
 putText(image,data["date"],(580, 1680),41)
